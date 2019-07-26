@@ -1,4 +1,8 @@
 {
-  "isdebug": "1",
-  "accountid": "122005012275982"
+  "code": "0",
+  "msg": "sucess",
+  "data": {
+    "isOpenLogcatViewer": "0",
+    "accountId": "20190701123456"
+  }
 }
